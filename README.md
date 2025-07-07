@@ -18,8 +18,7 @@ nrngui DRG_model_Kovalsky_etal.hoc
 
 on the command line in unix  
 
-or double click on the DRG_model_Kovalsky_etal.hoc file  
-(mac or mswin).
+or double click on the DRG_model_Kovalsky_etal.hoc file (mac or mswin).
 
 ---
 
