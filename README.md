@@ -1,16 +1,13 @@
 # Readme for the Model Associated with the Papers
 
-Kovalsky Y, Amir R, Devor M. Simulation in sensory neurons reveals a  
-key role for delayed Na+ current in subthreshold oscillations and  
+Kovalsky Y, Amir R, Devor M. Simulation in sensory neurons reveals a key role for delayed Na+ current in subthreshold oscillations and  
 ectopic discharge: implications for neuropathic pain.  
 *J Neurophysiol.* 2009 Sep;102(3):1430-42. Epub 2009 Jul 1.
 
-Department of Cell and Developmental Biology, Institute of Life  
-Sciences, Center for Research on Pain, Hebrew University of Jerusalem,  
+Department of Cell and Developmental Biology, Institute of Life Sciences, Center for Research on Pain, Hebrew University of Jerusalem,  
 Givat Ram, Jerusalem 91904, Israel.
 
-Other usage: download and expand the archive (zip file) on your  
-machine. Use nrnivmodl (unix) or mknrndll (mswin or mac) to compile  
+Other usage: download and expand the archive (zip file) on your machine. Use nrnivmodl (unix) or mknrndll (mswin or mac) to compile  
 the mod file.
 
 Then execute
